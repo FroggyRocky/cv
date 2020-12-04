@@ -1,0 +1,163 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+body {
+   background-color:#6a0c0b;
+   font-family: monaco;
+   color: #ffffff;
+}
+hr {
+   border-style: none;
+   border-width: 4px;
+   border-bottom-style: dotted;
+   width: 10%;
+   text-align: center;
+   margin: auto;
+   margin-top: 3em;
+   border-color: #b3fffb;
+   
+}
+
+.myskills {
+   margin: 3em 0 3em;
+}
+.top {
+   position: relative;
+   text-align: center;
+}
+.skill-row {
+   width: 50%;
+   margin:2em auto 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+.row2 {
+   text-align: left; 
+}
+
+.profile {
+   width: 50%;
+   margin:100px auto 100px auto;
+   text-align: left;
+}
+.profile p {
+   clear: right;
+}
+
+.bottom-container {
+  background-color: #B97D10;
+   margin:1.5em auto 0 auto;
+   padding: 10px 25px 5px 25px;
+   
+   
+}
+
+.bottom-container p, h2 {
+   margin-top: 0.5em;
+}
+.contact-me {
+   margin:50px auto 2em auto;
+
+}
+.contact-me h2 {
+   margin-bottom: 5px;
+}
+.contact-me h3 {
+   margin: 1.5em 0 1.5em;
+}
+
+h1 {
+   color: #def7ff;
+   padding-top: auto;
+   font-family: 'Liu Jian Mao Cao', cursive;
+   font-weight: normal;
+   padding-top: 10px;
+   padding-bottom:10px;
+}
+h2 {
+   font-family: 'Special Elite', cursive;
+   color:  #def7ff;
+   font-weight: normal;
+}
+h3 {
+   color: #def7ff;
+   font-weight: normal;
+}
+.bottom-container p {
+   color: black;
+}
+
+.middlelink {
+   margin: auto 2em auto 2em;
+}
+.code {
+   float: left;
+   padding-right: 2px;
+}
+.world {
+   float:right;
+   padding-left:1.5em;
+}
+.atom1 {
+   position: relative;
+   padding-top: 3em;
+   left: 6em;
+   bottom: -2.5em;
+
+}
+.atom2 {
+   position: relative;
+   padding-top: 2px;
+   right: 7em;
+   top: -1em;
+    
+}
+.ironman {
+   padding-bottom: 1em;
+   padding-top: 2em;
+   border-radius: 35%;
+   float: right;
+}
+
+.btn {
+	box-shadow: 0px 15px 20px -16px #FBCA03;
+	background:linear-gradient(to bottom, #B97D10 5%, #AA0505 100%);
+	background-color:#6A0C0B;
+   border-radius:25px;
+   color:  #def7ff;
+	display:inline-block;
+	cursor:pointer;
+	font-size:20px;
+	font-weight:none;
+	padding: 15px 20px;
+	text-decoration:none;
+   text-shadow:0px 1px 0px #3d768a;
+   margin-top: 1.5em;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #AA0505 5%, #B97D10 100%);
+   background-color:#6A0C0B;
+ 
+}
+.btn:active {
+     padding: 0;
+      margin: 0;
+      opacity: 1;
+      transition: 0s 
+}
+.bottom-container {
+   padding: 1.5em 0 1.5em;
+}
+.bottom-container a {
+   color: black;
+   text-decoration:overline transparent;
+   transition: text-decoration 300ms ease-out;
+   
+
+}
+ .bottom-container a:hover {
+   color:#def7ff;
+   text-decoration:overline;
+}
+
